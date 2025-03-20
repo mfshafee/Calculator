@@ -1,0 +1,14 @@
+Type:
+
+'+' for addition
+'-' for subtraction
+'*' for multiplication
+'/' for division
+'%' for percentage
+'>' for finding out the greater number
+'<' for finding out the lesser number
+'p' for power operation
+'s' for square root operation
+
+Hope you'll like it.
+M F Shafee
